@@ -3,13 +3,13 @@
 ## How to vote
 
 Here is the CLI command to vote on the proposal
-    ```sh
-    regen tx gov vote <proposalID> <option> --from <your_key_or_acc_address>
+    ```
+    sh regen tx gov vote <proposalID> <option> --from <your_key_or_acc_address>
     ```
     ex:
 
-    ```sh
-    regen tx gov vote 1 YES --from regen:1gpgpkmz3swt5ucdjxvrszk6yvjxjylsh4eur9d
+    ```
+    sh regen tx gov vote 1 YES --from regen:1gpgpkmz3swt5ucdjxvrszk6yvjxjylsh4eur9d
     ```
 
 ## How to upgrade
